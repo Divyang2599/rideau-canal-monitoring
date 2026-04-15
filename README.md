@@ -189,11 +189,3 @@ The system successfully automated the monitoring process. Below is a sample outp
 
 
 ---
-
-## 14. References
-
-- [Azure IoT Hub Documentation](#)
-- [Azure Stream Analytics Documentation](#)
-- [Azure Cosmos DB Documentation](#)
-- [azure-iot-device Python SDK](#)
-- [Chart.js Documentation](#)
