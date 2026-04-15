@@ -104,10 +104,10 @@ graph LR
 | Resource | Description | Link |
 | :--- | :--- | :--- |
 | Main Documentation | Architecture and query details | Current Repository |
-| Sensor Simulator | Python IoT simulation code | GitHub Repo |
-| Web Dashboard | Node.js & HTML Frontend | GitHub Repo |
+| Sensor Simulator | Python IoT simulation code | [https://github.com/Divyang2599/rideau-canal-sensor-simulation] |
+| Web Dashboard | Node.js & HTML Frontend | [https://github.com/Divyang2599/rideau-canal-dashboard] |
 
-**Live Deployment:** [View Dashboard](#)
+**Live Deployment:** [https://github.com/Divyang2599/rideau-canal-monitoring/tree/main/screenshots](# see all the screenshots)
 
 ---
 
@@ -185,8 +185,8 @@ The system successfully automated the monitoring process. Below is a sample outp
 ## 13. AI Utilization Statement
 
 - **Tool:** Claude (Anthropic)
-- **Application:** Code generation, debugging logic, and architecture documentation.
-- **Human Oversight:** While AI assisted with code generation, I personally reviewed, tested, and integrated every component to ensure architectural integrity and project compliance.
+- **Application:** Code generation, debugging logic.
+
 
 ---
 
