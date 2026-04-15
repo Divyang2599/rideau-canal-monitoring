@@ -2,7 +2,7 @@
 
 **Student:** Divyang Lodariya  
 **Student ID:** 041267894  
-**Course:** CST8916 — Remote Data and Real-time Applications  
+**Course:** CST8916  Remote Data and Real-time Applications  
 **College:** Algonquin College, Ottawa  
 
 ---
