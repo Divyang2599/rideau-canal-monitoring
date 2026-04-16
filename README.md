@@ -7,7 +7,7 @@
 
 ---
 
-## 12. Video Demonstration
+##  Video Demonstration
 
 [YouTube Demo Link](#) *(Update with actual link)*
 
