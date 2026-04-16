@@ -7,6 +7,12 @@
 
 ---
 
+## 12. Video Demonstration
+
+[YouTube Demo Link](#) *(Update with actual link)*
+
+---
+
 ## 1. Project Overview
 
 The Rideau Canal in Ottawa is one of the longest skating rinks in the world. Every winter, the National Capital Commission (NCC) checks ice conditions to decide if it is safe for people to skate.
@@ -176,13 +182,7 @@ The system successfully automated the monitoring process. Below is a sample outp
 
 ---
 
-## 12. Video Demonstration
-
-[YouTube Demo Link](#) *(Update with actual link)*
-
----
-
-## 13. AI Utilization Statement
+## 12. AI Utilization Statement
 
 - **Tool:** Claude (Anthropic)
 - **Application:** Code generation, debugging logic.
